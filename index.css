@@ -76,7 +76,7 @@ nav{
 
 .header{
     margin-bottom: 10rem;
-    background-image: url(images/interior2.jpg);
+    background-image: url(interior2.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -170,7 +170,7 @@ nav{
 
 .banner{
     padding-inline: 10rem 0;
-    background-image: url(images/interior4.jpg);
+    background-image: url(interior4.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
